@@ -7,6 +7,13 @@
 **Splashscreen**
 - [How to Add a Splash Screen to a React Native App (iOS and Android)](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
 
+- [Configurando ícone, splash screen e nome do app Android)](https://www.youtube.com/watch?v=3Gf9yb53bJM&t=3s)
+
+- [Configurando ícone, splash screen e nome do app iOS)](https://www.youtube.com/watch?v=iOitq0mDaLc)
+
+
+
+
 
 ### iOS
 **Archiving de projetos**
@@ -57,7 +64,7 @@ splits {
         abi {
             reset()
             enable enableSeparateBuildPerCPUArchitecture
-            universalApk false 
+            universalApk false
             include "armeabi-v7a" //Remova "x86" que está aqui
         }
     }
